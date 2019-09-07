@@ -1,4 +1,4 @@
-#客户端
+#客户端：与server配套
 # # 导入socket库:
 import socket
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
